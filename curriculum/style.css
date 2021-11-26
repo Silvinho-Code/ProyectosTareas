@@ -1,19 +1,8 @@
-/*{
-  margin: 0;
-  padding: 0;
-}*/
 
-#intro{
-  background-color: white;
-}
-/*
-p,h1,h2,h3,h4,h5,h6,div{
-  color: white;
-}*/
 a{
   text-decoration: none;
   color: red;
 }
 footer{
-  background-color: rgb(144, 199, 92);
+  background-color: lightgreen;
 }
