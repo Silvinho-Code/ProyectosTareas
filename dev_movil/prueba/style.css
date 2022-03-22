@@ -1,0 +1,37 @@
+/*===============================*/
+#navegador{
+  background-color: lightgray;
+}
+.navegador {
+  text-align: right;
+  margin-left: 5px;
+  border-width: 2px;
+}
+.navegador a{
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  border-radius: 0.5rem;
+}
+h1{
+  color: red;
+}
+.contenedor{
+  background-color: lightgray;
+  border-radius: 2rem;
+}
+ul.lista li{
+  text-decoration: none;
+}
+ul{
+  text-decoration: none;
+}
+.lista a{
+  text-decoration: none;
+}
+a:hover{
+  background-color: red;
+}
+a::active{
+  background-color: yellow;
+}
